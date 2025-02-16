@@ -10,7 +10,7 @@
 
   <!-- Favicons -->
   <link href="assets/img/icons2.avif" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/icons2.avif" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -26,14 +26,6 @@
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: FlexStart
-  * Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-  * Updated: Nov 01 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 
 </head>
 <!--body starting-->
@@ -120,8 +112,8 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-            <h1 data-aos="fade-up">Boost your business with a WhatsApp Bulk Sender—send personalized messages instantly,
-               and drive sales like never before! 🚀📢</h1>
+            <h2 data-aos="fade-up" style="color: #000000;">Boost your business with a WhatsApp Bulk Sender—send personalized messages instantly,
+               and drive sales like never before! 🚀📢</h2>
             <p data-aos="fade-up" data-aos-delay="100"></p>
             <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
               <a href="#about" class="btn-get-started">Get Started <i class="bi bi-arrow-right"></i></a>
@@ -129,7 +121,7 @@
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-            <img src="assets/img/whtsimg.png" class="img-fluid animated" alt="">
+            <img src="assets/img/hero-bg.jpg" class="img-fluid animated" alt="">
           </div>
         </div>
       </div>
@@ -186,7 +178,6 @@
               <img src="assets/img/values-1.png" class="img-fluid" alt="">
               <h3>Maximize Reach</h3>
                 <p>Easily reach 10000s of customers where they can be easily found. That's right!! On WhatsApp. Whatso’s bulk marketing features will help you reach your marketing goals</p>
-              <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -281,7 +272,7 @@
         <div class="row gy-5">
 
           <div class="col-xl-6" data-aos="zoom-out" data-aos-delay="100">
-            <img src="assets/img/features.png" class="img-fluid" alt="">
+            <img src="assets/img/feature-advance.jpg" class="img-fluid" alt="">
           </div>
 
           <div class="col-xl-6 d-flex">
@@ -402,7 +393,7 @@
           </div>
 
           <div class="col-xl-5 d-flex align-items-center order-1 order-xl-2" data-aos="fade-up" data-aos-delay="100">
-            <img src="assets/img/alt-features.png" class="img-fluid" alt="">
+            <img src="assets/img/feature-adavance2.jpg" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -1420,13 +1411,9 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Whatso</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename"> Meme Creators Universo</strong> <span>All Rights Reserved</span></p>
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you've purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">Seshathri</a> Distributed by <a href=“https://themewagon.com>ThemeWagon
+        Designed by <a href="#">Seshathri</a> Distributed by <a href="https://gocosys.com">Gocosys Pvt Ltd </a>
       </div>
     </div>
 
